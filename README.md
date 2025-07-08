@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/components/extras/images/logo.png" alt="Streamlit Logo" width="150"/>
-
 # 💰 AI-Powered Financial Dashboard
 
 ### A sophisticated, multi-page budget tracking application with personalized AI-driven insights.
