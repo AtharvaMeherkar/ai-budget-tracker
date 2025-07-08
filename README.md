@@ -18,7 +18,7 @@
 
 **Interact with the live application here:**
 
-### **[https://ai-budget-tracker.streamlit.app/](https://ai-budget-tracker.streamlit.app/)**
+### **[DEMO](https://ai-budget-tracker.streamlit.app/)**
   
 *A quick demonstration of the app's features in action.*
 
