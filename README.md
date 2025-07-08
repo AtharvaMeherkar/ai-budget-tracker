@@ -50,7 +50,7 @@
 
 ## 🏗️ Architecture & Tech Stack
 
-This project uses a modern, Python-based stack to deliver a seamless experience from data processing to user interaction.
+This project utilizes a modern, Python-based stack to deliver a seamless experience, spanning from data processing to user interaction.
 
 | Technology | Role |
 | :--- | :--- |
@@ -130,7 +130,7 @@ Launch the Streamlit web server with this command:
 ```bash
 streamlit run dashboard.py
 ```
-The application will automatically open in a new tab in your web browser!
+The application will open automatically in a new tab in your web browser.
 
 ---
 
@@ -139,3 +139,30 @@ The application will automatically open in a new tab in your web browser!
 Your Name - `atharvameherkar123@gmail.com`
 
 Project Link: [https://github.com/AtharvaMeherkar/ai-budget-tracker](https://github.com/AtharvaMeherkar/ai-budget-tracker)
+
+
+## Screenshots before adding the transactions
+
+![image](https://github.com/user-attachments/assets/9d270821-3374-4965-b3ce-a7b542062a9d)
+
+![image](https://github.com/user-attachments/assets/b2116c3b-3864-421b-b360-d3e4e3f71465)
+
+![image](https://github.com/user-attachments/assets/2b1a4def-2e1e-4e55-9fa3-e1907dc0dab3)
+
+![image](https://github.com/user-attachments/assets/cef1aad5-0167-4676-a5ef-b02a9550d0bc)
+
+![image](https://github.com/user-attachments/assets/8af9cec2-1186-494d-899b-ee3e95f52549)
+
+
+
+## Screenshots after adding the transactions
+
+![image](https://github.com/user-attachments/assets/48435752-726b-4e5c-a654-130b4a9d0319)
+
+![image](https://github.com/user-attachments/assets/606a3645-f3d8-4d9c-ad33-7c58a9288392)
+
+![image](https://github.com/user-attachments/assets/1a484976-3f31-4dec-acd9-cef5a8459fac)
+
+![image](https://github.com/user-attachments/assets/4d8a6960-19a0-4277-936a-8da67a705510)
+
+![image](https://github.com/user-attachments/assets/ac2d1992-a95b-4aa5-922a-ba027ae06a22)
