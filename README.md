@@ -141,7 +141,7 @@ Your Name - `atharvameherkar123@gmail.com`
 Project Link: [https://github.com/AtharvaMeherkar/ai-budget-tracker](https://github.com/AtharvaMeherkar/ai-budget-tracker)
 
 
-## Screenshots before adding the transactions
+### Screenshots before adding the transactions
 
 ![image](https://github.com/user-attachments/assets/9d270821-3374-4965-b3ce-a7b542062a9d)
 
@@ -155,7 +155,7 @@ Project Link: [https://github.com/AtharvaMeherkar/ai-budget-tracker](https://git
 
 
 
-## Screenshots after adding the transactions
+### Screenshots after adding the transactions
 
 ![image](https://github.com/user-attachments/assets/48435752-726b-4e5c-a654-130b4a9d0319)
 
